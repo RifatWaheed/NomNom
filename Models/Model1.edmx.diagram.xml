@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="75f0fea7f6b3482e88f9e766716d9d63" Name="Diagram1">
+        <EntityTypeShape EntityType="NomNomScratch.AdminLogin" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.Appetizer" Width="1.5" PointX="7.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.Beverage" Width="1.5" PointX="7.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.Dessert" Width="1.5" PointX="7.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.MainCourse" Width="1.5" PointX="9.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.Order" Width="1.5" PointX="5.25" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.RankList" Width="1.5" PointX="5.25" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.Staff" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.UserRegister" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NomNomScratch.VoucherList" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <AssociationConnector Association="NomNomScratch.FK_Orders_Staff" ManuallyRouted="false" />
+        <AssociationConnector Association="NomNomScratch.FK_Orders_Staff1" ManuallyRouted="false" />
+        <AssociationConnector Association="NomNomScratch.FK_Orders_UserRegister" ManuallyRouted="false" />
+        <AssociationConnector Association="NomNomScratch.FK_RankList_UserRegister" ManuallyRouted="false" />
+        <AssociationConnector Association="NomNomScratch.FK_UserRegister_VoucherList" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
