@@ -1,0 +1,498 @@
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll.config
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\NomNomScratch.pdb
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe.config
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\csc.rsp
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe.config
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\csi.rsp
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Managed.Core.targets
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.AppContext.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Collections.Immutable.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Console.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Globalization.Calendars.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Http.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Sockets.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Reflection.Metadata.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.ValueTuple.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XmlDocument.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe.config
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\vbc.rsp
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe.config
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\EntityFramework.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Microsoft.Web.Infrastructure.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Razor.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\WebGrease.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\EntityFramework.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.Razor.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.pdb
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.AssemblyReference.cache
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CoreCompileInputs.cache
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CopyComplete
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.dll
+F:\3.2\SD Lab\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.pdb
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll.config
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.pdb
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe.config
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.rsp
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe.config
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.rsp
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Managed.Core.targets
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.AppContext.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Collections.Immutable.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Console.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Globalization.Calendars.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Http.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Sockets.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Reflection.Metadata.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.ValueTuple.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XmlDocument.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe.config
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.rsp
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe.config
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.Web.Infrastructure.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\WebGrease.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.pdb
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.AssemblyReference.cache
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CoreCompileInputs.cache
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CopyComplete
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.dll
+E:\3.2 CSE\LAB\SD LAB\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.pdb
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll.config
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.pdb
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe.config
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.rsp
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe.config
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.rsp
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.AppContext.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Console.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Http.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe.config
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.rsp
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\WebGrease.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.pdb
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.AssemblyReference.cache
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CopyComplete
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.dll
+C:\Users\Fahim\Desktop\New folder\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.pdb
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll.config
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.pdb
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe.config
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.rsp
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe.config
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.rsp
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.AppContext.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Console.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Http.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe.config
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.rsp
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\WebGrease.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.pdb
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.AssemblyReference.cache
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CopyComplete
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.dll
+C:\Users\Fahim\Desktop\New folder\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.pdb
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll.config
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\NomNomScratch.pdb
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.exe.config
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csc.rsp
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.exe.config
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\csi.rsp
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.AppContext.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Collections.Immutable.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Console.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Http.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Net.Sockets.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.ValueTuple.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.exe.config
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\vbc.rsp
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\roslyn\VBCSCompiler.exe.config
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.Web.Infrastructure.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\WebGrease.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\EntityFramework.SqlServer.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Helpers.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Mvc.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Optimization.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.Razor.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Deployment.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\System.Web.WebPages.Razor.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Newtonsoft.Json.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Antlr3.Runtime.pdb
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.AssemblyReference.cache
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CoreCompileInputs.cache
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.csproj.CopyComplete
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.dll
+D:\Ekdom Latest\NomNomScratch\NomNomScratch\NomNomScratch\obj\Debug\NomNomScratch.pdb
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\NomNomScratch.dll.config
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\NomNomScratch.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\NomNomScratch.pdb
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\csc.exe
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\csc.exe.config
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\csc.rsp
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\csi.exe
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\csi.exe.config
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\csi.rsp
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.Managed.Core.targets
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.AppContext.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Collections.Immutable.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Console.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Globalization.Calendars.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.IO.Compression.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.IO.FileSystem.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Net.Http.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Net.Sockets.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Reflection.Metadata.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.ValueTuple.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Xml.XmlDocument.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Xml.XPath.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\vbc.exe
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\vbc.exe.config
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\vbc.rsp
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\VBCSCompiler.exe
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\roslyn\VBCSCompiler.exe.config
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Antlr3.Runtime.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\EntityFramework.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\EntityFramework.SqlServer.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Microsoft.Web.Infrastructure.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Newtonsoft.Json.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Helpers.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Mvc.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Optimization.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Razor.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.WebPages.Deployment.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.WebPages.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.WebPages.Razor.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\WebGrease.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\EntityFramework.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\EntityFramework.SqlServer.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Helpers.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Mvc.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Optimization.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.Razor.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.WebPages.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.WebPages.Deployment.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\System.Web.WebPages.Razor.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Newtonsoft.Json.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Antlr3.Runtime.pdb
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\obj\Debug\NomNomScratch.csproj.AssemblyReference.cache
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\obj\Debug\NomNomScratch.csproj.CoreCompileInputs.cache
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\obj\Debug\NomNomScratch.csproj.CopyComplete
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\obj\Debug\NomNomScratch.dll
+F:\3.2\SD Lab\fahim er deya final project\FINAL PROJECT\NomNomScratch\obj\Debug\NomNomScratch.pdb

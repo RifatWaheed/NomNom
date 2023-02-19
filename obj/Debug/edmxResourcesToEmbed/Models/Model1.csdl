@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AdminLogin">
+    <Key>
+      <PropertyRef Name="AdminId" />
+    </Key>
+    <Property Name="AdminId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Appetizer">
+    <Key>
+      <PropertyRef Name="AppID" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="AppID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Beverage">
+    <Key>
+      <PropertyRef Name="BevID" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="BevID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Dessert">
+    <Key>
+      <PropertyRef Name="DesID" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="DesID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="MainCourse">
+    <Key>
+      <PropertyRef Name="MfID" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="MfID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Info" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CookID" Type="Int32" Nullable="false" />
+    <Property Name="DeliverymanID" Type="Int32" Nullable="false" />
+    <Property Name="Assign" Type="Int32" />
+    <NavigationProperty Name="Staff" Relationship="Self.FK_Orders_Staff" FromRole="Orders" ToRole="Staff" />
+    <NavigationProperty Name="Staff1" Relationship="Self.FK_Orders_Staff1" FromRole="Orders" ToRole="Staff" />
+    <NavigationProperty Name="UserRegister" Relationship="Self.FK_Orders_UserRegister" FromRole="Orders" ToRole="UserRegister" />
+  </EntityType>
+  <EntityType Name="RankList">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="TotalOrder" Type="Int32" Nullable="false" />
+    <Property Name="SpecialVoucher" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Assign" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Spend" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserRegister" Relationship="Self.FK_RankList_UserRegister" FromRole="RankList" ToRole="UserRegister" />
+  </EntityType>
+  <EntityType Name="Staff">
+    <Key>
+      <PropertyRef Name="StaffID" />
+    </Key>
+    <Property Name="StaffID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mobile" Type="Int32" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Salary" Type="Int32" Nullable="false" />
+    <Property Name="Category" Type="Int32" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Orders_Staff" FromRole="Staff" ToRole="Orders" />
+    <NavigationProperty Name="Orders1" Relationship="Self.FK_Orders_Staff1" FromRole="Staff" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="UserRegister">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mobile" Type="Int32" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VoucherID" Type="Int32" />
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Orders_UserRegister" FromRole="UserRegister" ToRole="Orders" />
+    <NavigationProperty Name="RankList" Relationship="Self.FK_RankList_UserRegister" FromRole="UserRegister" ToRole="RankList" />
+    <NavigationProperty Name="VoucherList" Relationship="Self.FK_UserRegister_VoucherList" FromRole="UserRegister" ToRole="VoucherList" />
+  </EntityType>
+  <EntityType Name="VoucherList">
+    <Key>
+      <PropertyRef Name="VoucherID" />
+    </Key>
+    <Property Name="VoucherID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Code" Type="Int32" Nullable="false" />
+    <Property Name="Discount" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="UserRegisters" Relationship="Self.FK_UserRegister_VoucherList" FromRole="VoucherList" ToRole="UserRegister" />
+  </EntityType>
+  <Association Name="FK_Orders_Staff">
+    <End Role="Staff" Type="Self.Staff" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Staff1">
+    <End Role="Staff" Type="Self.Staff" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="DeliverymanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_UserRegister">
+    <End Role="UserRegister" Type="Self.UserRegister" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRegister">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RankList_UserRegister">
+    <End Role="UserRegister" Type="Self.UserRegister" Multiplicity="1" />
+    <End Role="RankList" Type="Self.RankList" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="UserRegister">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="RankList">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserRegister_VoucherList">
+    <End Role="VoucherList" Type="Self.VoucherList" Multiplicity="0..1" />
+    <End Role="UserRegister" Type="Self.UserRegister" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VoucherList">
+        <PropertyRef Name="VoucherID" />
+      </Principal>
+      <Dependent Role="UserRegister">
+        <PropertyRef Name="VoucherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NomNomEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AdminLogins" EntityType="Self.AdminLogin" />
+    <EntitySet Name="Appetizers" EntityType="Self.Appetizer" />
+    <EntitySet Name="Beverages" EntityType="Self.Beverage" />
+    <EntitySet Name="Desserts" EntityType="Self.Dessert" />
+    <EntitySet Name="MainCourses" EntityType="Self.MainCourse" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <EntitySet Name="RankLists" EntityType="Self.RankList" />
+    <EntitySet Name="Staffs" EntityType="Self.Staff" />
+    <EntitySet Name="UserRegisters" EntityType="Self.UserRegister" />
+    <EntitySet Name="VoucherLists" EntityType="Self.VoucherList" />
+    <AssociationSet Name="FK_Orders_Staff" Association="Self.FK_Orders_Staff">
+      <End Role="Staff" EntitySet="Staffs" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Staff1" Association="Self.FK_Orders_Staff1">
+      <End Role="Staff" EntitySet="Staffs" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_UserRegister" Association="Self.FK_Orders_UserRegister">
+      <End Role="UserRegister" EntitySet="UserRegisters" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RankList_UserRegister" Association="Self.FK_RankList_UserRegister">
+      <End Role="UserRegister" EntitySet="UserRegisters" />
+      <End Role="RankList" EntitySet="RankLists" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserRegister_VoucherList" Association="Self.FK_UserRegister_VoucherList">
+      <End Role="VoucherList" EntitySet="VoucherLists" />
+      <End Role="UserRegister" EntitySet="UserRegisters" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
