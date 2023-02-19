@@ -1,0 +1,138 @@
+﻿@model IEnumerable<NomNomScratch.Models.makeOrder>
+
+@{
+    Layout = "~/Views/AdminDashboardLayout.cshtml";
+
+}
+
+
+<div class="col-xs-6">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Widdle</a>
+
+
+
+
+
+
+            <p class="text-white bg-dark">
+
+                <a href="@Url.Action("LogOutStaff", "AdminLogins")" class="btn btn-outline-info" role="button">Log Out</a>
+
+                Hi,@TempData["StaffLogin"]
+            </p>
+
+        </div>
+
+    </nav>
+
+
+    <div class="table-responsive">
+        <table class="table table-hover">
+            <thead>
+                <tr class="table-info">
+                    <th scope="col">@Html.DisplayNameFor(x => x.OrderID)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.foodName)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.qnty)</th>
+                    <th scope="col"> Unit Price</th>
+                    <th scope="col"> Food Price</th>
+                    <th scope="col">Total Price</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.UserID)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.UName)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.Mobile)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.UserAddress)</th>
+                    <th scope="col"> Cook-Name(ID)</th>
+                    <th scope="col"> Deliveryman Name(ID)</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class=" table table-hover">
+                        <td class=" table-warning align-middle text-center"> @item.OrderID </td>
+                        <td>
+                            <table class="table table-hover">
+                                <tbody>
+                                    @foreach (var data in item.foodName)
+                                    {
+                                        <tr class="table-warning">
+                                            <td> @data</td>
+                                        </tr>
+                                    }
+                                </tbody>
+
+                            </table>
+                        </td>
+
+                        <td>
+                            <table class="table table-hover">
+                                <tbody>
+                                    @foreach (var data in item.qnty)
+                                    {
+                                        <tr class="table-warning">
+                                            <td> @data</td>
+                                        </tr>
+                                    }
+                                </tbody>
+
+                            </table>
+                        </td>
+
+                        <td>
+                            <table class="table table-hover">
+                                <tbody>
+                                    @foreach (var data in item.foodPrice)
+                                    {
+                                        <tr class="table-warning">
+                                            <td> @data</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+
+
+                        <td>
+                            <table class="table table-hover">
+                                @for (var data = 0; data < item.foodPrice.Count; data++)
+                                {
+                                    <tr class="table-warning">
+                                        <td> @(@item.foodPrice[data] / @item.qnty[data])  </td>
+                                    </tr>
+                                }
+
+                            </table>
+                        </td>
+
+                        <td class=" table-warning align-middle text-center"> @item.Total</td>
+
+                        <td class=" table-warning align-middle text-center"> @item.UserID</td>
+                        <td class=" table-warning align-middle text-center"> @item.UName</td>
+                        <td class=" table-warning align-middle text-center"> @item.Mobile</td>
+                        <td class=" table-warning align-middle text-center"> @item.UserAddress</td>
+                        <td class=" table-warning align-middle text-center"> @item.CookName</td>
+                        <td class=" table-warning align-middle text-center"> @item.DevName</td>
+              
+
+                    </tr>
+
+                }
+
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,641 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_LayoutHomePage.cshtml";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--header-->
+<header id="site-header" class="fixed-top">
+    <div class="container">
+        <nav class="navbar navbar-expand-lg stroke px-0">
+            <h1>
+                <a class="navbar-brand" href="index.html">
+                    
+                </a>
+            </h1>
+            <!-- if logo is image enable this
+            <a class="navbar-brand" href="#index.html">
+                <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+            </a> -->
+            <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
+                    data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
+                <span class="navbar-toggler-icon fa icon-close fa-times"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav ml-lg-auto">
+
+
+                    <li class="nav-item">
+                        <p> Are u an Admin? Login Here! <p />
+                        <a href="https://localhost:44398/AdminLogins/Login" class="btn btn-style">Admin Login</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <p> Are u an Staff? Login Here! <p />
+                        <a href="https://localhost:44398/AdminLogins/StaffLogin" class="btn btn-style">Staff Login</a>
+                    </li>
+
+                </ul>
+            </div>
+            <!-- toggle switch for light and dark theme -->
+            <div class="cont-ser-position mt-lg-2">
+                <nav class="navigation">
+                    <div class="theme-switch-wrapper">
+                        <label class="theme-switch" for="checkbox">
+                            <input type="checkbox" id="checkbox">
+                            <div class="mode-container">
+                                <i class="gg-sun"></i>
+                                <i class="gg-moon"></i>
+                            </div>
+                        </label>
+                    </div>
+                </nav>
+            </div>
+            <!-- //toggle switch for light and dark theme -->
+        </nav>
+    </div>
+</header>
+<!--//header-->
+<!-- banner section -->
+<section class="w3l-banner d-flex">
+    <div class="container">
+        <div class="row align-items-center mt-md-0 mt-sm-4">
+            <div class="col-md-6 banner-content mt-md-0 mt-5 pt-md-0 pt-5">
+                <h3 class="banner-style">Your Preffered Place!</h3>
+                <div class="mt-5 pt-sm-2">
+                    <a href="https://localhost:44398/AdminLogins/UserLogin" class="btn btn-style">Login</a>
+                    <a href="https://localhost:44398/AdminLogins/SignUp" class="btn btn-style">Sign Up</a>
+                    <a href="contact.html" class="btn btn-style btn-style-normal ml-2"> Contact Us</a>
+                </div>
+            </div>
+            <div class="col-md-6 banner-img">
+                <img src="assets/images/banner1.png" alt="" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //banner section -->
+<!-- banner bottom section -->
+<section class="w3l-bottom-grids-6 py-5">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-5" style="max-width:500px;">
+            <p class="text-uppercase">Features</p>
+            <h3 class="title-style">We are <span>Best</span> Marketing Agency </h3>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 grids-feature">
+                <div class="area-box">
+                    <i class="fas fa-user-lock"></i>
+                    <h4><a href="about.html" class="title-head">Strong Security</a></h4>
+                    <p class="">
+                        Amus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis
+                        sed et dolor amet.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grids-feature mt-5">
+                <div class="area-box">
+                    <i class="fas fa-lightbulb"></i>
+                    <h4><a href="about.html" class="title-head">Creative Idea</a></h4>
+                    <p class="">
+                        Amus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis
+                        sed dolor et amet.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5">
+                <div class="area-box">
+                    <i class="fas fa-gem"></i>
+                    <h4><a href="about.html" class="title-head">Best Service</a></h4>
+                    <p class="">
+                        Amus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis
+                        sed dolor et amet.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //banner bottom section -->
+<!-- progress section -->
+<section class="w3l-about-2 py-5">
+    <div class="container py-md-5 py-4">
+        <div class="row align-items-center justify-content-between">
+            <div class="col-lg-6 about-2-secs-right mb-lg-0 mb-5">
+                <img src="assets/images/ab1.png" alt="" class="img-fluid img-responsive" />
+            </div>
+            <div class="col-lg-6 about-2-secs-left mt-lg-0 mt-sm-4 mt-2 pl-lg-5">
+                <div class="style-title position-relative">
+                    <h3 class="title-style mb-sm-3 mb-2">
+                        <span>We are</span> the best agency to improve your work
+                    </h3>
+                </div>
+                <p>
+                    Consectetur adipiscing elit. Aliquam sit amet
+                    efficitur tortor...
+                </p>
+                <div class="w3l-progressblock mt-md-5 mt-4">
+                    <div class="progress-info info1">
+                        <h6 class="progress-tittle">Market Strategy <span class="">80%</span></h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%"
+                                 aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-info info2">
+                        <h6 class="progress-tittle">
+                            Financial Support <span class="">95%</span>
+                        </h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%"
+                                 aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-info info3 mb-0">
+                        <h6 class="progress-tittle">Online reporting <span class="">90%</span></h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 90%"
+                                 aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //progress section -->
+<!-- features section -->
+<section class="w3l-features py-5">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-sm-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase text-white">Services</p>
+            <h3 class="title-style text-white">Check <span>our</span> Services</h3>
+        </div>
+        <div class="row main-cont-wthree-2 justify-content-center">
+            <div class="col-lg-7 feature-grid-right">
+                <div class="call-grids-w3 d-grid">
+                    <div class="grids-1 box-wrap">
+                        <div class="icon">
+                            <i class="fas fa-chart-pie"></i>
+                        </div>
+                        <h4>
+                            <a href="services.html" class="title-head">
+                                Digital Solution
+                            </a>
+                        </h4>
+                    </div>
+
+                    <div class="grids-1 box-wrap">
+                        <div class="icon">
+                            <i class="fas fa-edit"></i>
+                        </div>
+                        <h4>
+                            <a href="services.html" class="title-head">
+                                Business Planing
+                            </a>
+                        </h4>
+                    </div>
+
+                    <div class="grids-1 box-wrap">
+                        <div class="icon">
+                            <i class="fas fa-dice-d20"></i>
+                        </div>
+                        <h4>
+                            <a href="services.html" class="title-head">
+                                Creative Strategy
+                            </a>
+                        </h4>
+                    </div>
+
+                    <div class="grids-1 box-wrap">
+                        <div class="icon">
+                            <i class="fab fa-battle-net"></i>
+                        </div>
+                        <h4>
+                            <a href="services.html" class="title-head">
+                                Branding Businesss
+                            </a>
+                        </h4>
+                    </div>
+
+                    <div class="grids-1 box-wrap">
+                        <div class="icon">
+                            <i class="fas fa-business-time"></i>
+                        </div>
+                        <h4>
+                            <a href="services.html" class="title-head">
+                                Marketing Policy
+                            </a>
+                        </h4>
+                    </div>
+
+                    <div class="grids-1 box-wrap">
+                        <div class="icon">
+                            <i class="fas fa-chess"></i>
+                        </div>
+                        <h4>
+                            <a href="services.html" class="title-head">
+                                StartUp Business
+                            </a>
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //features section -->
+<!-- team section -->
+<section class="w3l-team py-5">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-5" style="max-width:500px;">
+            <p class="text-uppercase">Our Team</p>
+            <h3 class="title-style">Meet The <span>Professionals!</span></h3>
+        </div>
+        <div class="row text-center">
+            <div class="col-lg-3 col-sm-6">
+                <div class="team-block-single">
+                    <div class="team-grids">
+                        <a href="#team-single">
+                            <img src="assets/images/team1.jpg" class="img-fluid" alt="">
+                        </a>
+                        <div class="team-info">
+                            <div class="social-icons-section">
+                                <a class="fac" href="#facebook">
+                                    <span class="fab fa-facebook-f"></span>
+                                </a>
+                                <a class="twitter mx-2" href="#twitter">
+                                    <span class="fab fa-twitter"></span>
+                                </a>
+                                <a class="google" href="#google-plus">
+                                    <span class="fab fa-google-plus-g"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-bottom-block p-4">
+                        <h5 class="member mb-1"><a href="#team">Olive Yew</a></h5>
+                        <small>CEO of Company</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 mt-5">
+                <div class="team-block-single">
+                    <div class="team-grids">
+                        <a href="#team-single">
+                            <img src="assets/images/team2.jpg" class="img-fluid" alt="">
+                        </a>
+                        <div class="team-info">
+                            <div class="social-icons-section">
+                                <a class="fac" href="#facebook">
+                                    <span class="fab fa-facebook-f"></span>
+                                </a>
+                                <a class="twitter mx-2" href="#twitter">
+                                    <span class="fab fa-twitter"></span>
+                                </a>
+                                <a class="google" href="#google-plus">
+                                    <span class="fab fa-google-plus-g"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-bottom-block p-4">
+                        <h5 class="member mb-1 active"><a href="#team">Aida Joe</a></h5>
+                        <small>Team Leader</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 mt-sm-0 mt-5">
+                <div class="team-block-single">
+                    <div class="team-grids">
+                        <a href="#team-single">
+                            <img src="assets/images/team3.jpg" class="img-fluid" alt="">
+                        </a>
+                        <div class="team-info">
+                            <div class="social-icons-section">
+                                <a class="fac" href="#facebook">
+                                    <span class="fab fa-facebook-f"></span>
+                                </a>
+                                <a class="twitter mx-2" href="#twitter">
+                                    <span class="fab fa-twitter"></span>
+                                </a>
+                                <a class="google" href="#google-plus">
+                                    <span class="fab fa-google-plus-g"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-bottom-block p-4">
+                        <h5 class="member mb-1"><a href="#team">Teri Dac</a></h5>
+                        <small>Manager of Company</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 mt-5">
+                <div class="team-block-single">
+                    <div class="team-grids">
+                        <a href="#team-single">
+                            <img src="assets/images/team4.jpg" class="img-fluid" alt="">
+                        </a>
+                        <div class="team-info">
+                            <div class="social-icons-section">
+                                <a class="fac" href="#facebook">
+                                    <span class="fab fa-facebook-f"></span>
+                                </a>
+                                <a class="twitter mx-2" href="#twitter">
+                                    <span class="fab fa-twitter"></span>
+                                </a>
+                                <a class="google" href="#google-plus">
+                                    <span class="fab fa-google-plus-g"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-bottom-block p-4">
+                        <h5 class="member mb-1"><a href="#team">Anton Bne</a></h5>
+                        <small>Chef Advisor</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //team setion -->
+<!-- stats -->
+<section class="w3_stats py-5" id="stats">
+    <div class="container py-md-5 py-4">
+        <div class="w3-stats">
+            <div class="row text-center">
+                <div class="col-md-3 col-6">
+                    <div class="counter">
+                        <div class="timer count-title count-number" data-to="5100" data-speed="1500"></div>
+                        <p class="count-text">Activate Project</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="counter">
+                        <div class="timer count-title count-number" data-to="971" data-speed="1500"></div>
+                        <p class="count-text">Expert Team</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-6 mt-md-0 mt-4">
+                    <div class="counter">
+                        <div class="timer count-title count-number" data-to="7600" data-speed="1500"></div>
+                        <p class="count-text">Satisfied Clients</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-6 mt-md-0 mt-4">
+                    <div class="counter border-right-0">
+                        <div class="timer count-title count-number" data-to="367" data-speed="1500"></div>
+                        <p class="count-text">Awards Won</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //stats -->
+<!-- testimonials -->
+<section class="w3l-companies-6 position-relative py-5">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-sm-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase">Testimonials</p>
+            <h3 class="title-style">Our Customer <span>Reviews</span></h3>
+        </div>
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <div class="testimonial-content">
+                    <div class="testimonial mt-5 pt-5">
+                        <blockquote class="pt-5">
+                            <p>
+                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+                                doloremque laudantium, totam rem aperiam.
+                            </p>
+                        </blockquote>
+                        <div class="testi-des">
+                            <div class="test-img">
+                                <img src="assets/images/testi2.jpg" class="img-fluid" alt="/">
+                            </div>
+                            <div class="peopl">
+                                <h3>Jenna John</h3>
+                                <p class="indentity">Designer, Company</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--//testimonials-->
+<!-- footer -->
+<footer class="w3l-footer-16 py-5">
+    <div class="container pt-md-4">
+        <div class="row footer-p">
+            <div class="col-lg-4 pr-lg-5">
+                <a class="footer-logo" href="index.html">
+                    <span>Be</span>Idea
+                </a>
+                <p class="mt-3">
+                    Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
+                    minus id quod maxime placeat facere.
+                </p>
+                <div class="columns-2 mt-4">
+                    <ul class="social">
+                        <li>
+                            <a href="#facebook"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li>
+                            <a href="#linkedin"><i class="fab fa-linkedin-in"></i></a>
+                        </li>
+                        <li>
+                            <a href="#twitter"><i class="fab fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="#google"><i class="fab fa-google-plus-g"></i></a>
+                        </li>
+                        <li>
+                            <a href="#github"><i class="fab fa-github"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-5 mt-lg-0 mt-5">
+                <div class="row">
+                    <div class="col-xl-5 col-6 column">
+                        <h3 class="mt-lg-3">Quick Link</h3>
+                        <ul class="footer-gd-16">
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="#clients">Our Clients</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="#blog">Blog Posts</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xl-5 col-6 column pl-lg-0">
+                        <h3 class="mt-lg-3">Contact Info</h3>
+                        <ul class="footer-contact-list">
+                            <li class="">
+                                10001, 5th Avenue,
+                                #32841 block, USA
+                            </li>
+                            <li class="mt-2"><a href="tel:+12 23456790">+1223 456 790</a></li>
+                            <li class="mt-2"><a href="mailto:info@example.com">info@example.com</a></li>
+                            <li class="mt-2"><a href="mailto:info@example.com">www.example.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-7 col-sm-8 column mt-lg-0 mt-4 pl-xl-0">
+                <h3 class="mt-lg-3">Newsletter </h3>
+                <div class="end-column">
+                    <form action="#" class="subscribe" method="post">
+                        <input type="email" name="email" placeholder="Email Address" required="">
+                        <button><span class="fa fa-paper-plane" aria-hidden="true"></span></button>
+                    </form>
+                    <p>Subscribe to our mailing list and get updates to your email inbox.</p>
+                </div>
+            </div>
+        </div>
+        <div class="below-section text-center pt-lg-4 mt-5">
+            <p class="copy-text">
+                &copy; 2021 Beidea. All rights reserved. Design by <a href="https://w3layouts.com/"
+                                                                      target="_blank"> W3Layouts</a>
+            </p>
+        </div>
+    </div>
+</footer>
+<!-- //footer -->
+<!-- Js scripts -->
+<!-- move top -->
+<button onclick="topFunction()" id="movetop" title="Go to top">
+    <span class="fas fa-level-up-alt" aria-hidden="true"></span>
+</button>
+<script>
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function () {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("movetop").style.display = "block";
+        } else {
+            document.getElementById("movetop").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+<!-- //move top -->
+<!-- common jquery plugin -->
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<!-- //common jquery plugin -->
+<!-- counter for stats -->
+<script src="assets/js/counter.js"></script>
+<!-- //counter for stats -->
+<!-- theme switch js (light and dark)-->
+<script src="assets/js/theme-change.js"></script>
+<script>
+    function autoType(elementClass, typingSpeed) {
+        var thhis = $(elementClass);
+        thhis.css({
+            "position": "relative",
+            "display": "inline-block"
+        });
+        thhis.prepend('<div class="cursor" style="right: initial; left:0;"></div>');
+        thhis = thhis.find(".text-js");
+        var text = thhis.text().trim().split('');
+        var amntOfChars = text.length;
+        var newString = "";
+        thhis.text("|");
+        setTimeout(function () {
+            thhis.css("opacity", 1);
+            thhis.prev().removeAttr("style");
+            thhis.text("");
+            for (var i = 0; i < amntOfChars; i++) {
+                (function (i, char) {
+                    setTimeout(function () {
+                        newString += char;
+                        thhis.text(newString);
+                    }, i * typingSpeed);
+                })(i + 1, text[i]);
+            }
+        }, 1500);
+    }
+
+    $(document).ready(function () {
+        // Now to start autoTyping just call the autoType function with the
+        // class of outer div
+        // The second paramter is the speed between each letter is typed.
+        autoType(".type-js", 200);
+    });
+</script>
+<!-- //theme switch js (light and dark)-->
+<!-- MENU-JS -->
+<script>
+    $(window).on("scroll", function () {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 80) {
+            $("#site-header").addClass("nav-fixed");
+        } else {
+            $("#site-header").removeClass("nav-fixed");
+        }
+    });
+
+    //Main navigation Active Class Add Remove
+    $(".navbar-toggler").on("click", function () {
+        $("header").toggleClass("active");
+    });
+    $(document).on("ready", function () {
+        if ($(window).width() > 991) {
+            $("header").removeClass("active");
+        }
+        $(window).on("resize", function () {
+            if ($(window).width() > 991) {
+                $("header").removeClass("active");
+            }
+        });
+    });
+</script>
+<!-- //MENU-JS -->
+<!-- disable body scroll which navbar is in active -->
+<script>
+    $(function () {
+        $('.navbar-toggler').click(function () {
+            $('body').toggleClass('noscroll');
+        })
+    });
+</script>
+<!-- //disable body scroll which navbar is in active -->
+<!--bootstrap-->
+<script src="assets/js/bootstrap.min.js"></script>
+<!-- //bootstrap-->
+<!-- //Js scripts -->

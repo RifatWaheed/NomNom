@@ -1,0 +1,181 @@
+﻿@model IEnumerable<NomNomScratch.Models.makeOrder>
+
+@{
+    Layout = "~/Views/AdminDashboardLayout.cshtml";
+
+}
+    <a href="~/BookFood/AppetizerShow" class="btn btn-warning btn-lg" style="width:230px">Appetizer</a>
+
+  
+
+    <a href="~/BookFood/MainCourseShow" class="btn btn-danger btn-lg" style="width:230px">Main Course</a>
+
+    <a href="~/BookFood/DessertShow" class="btn btn-info btn-lg" style="width:230px">Dessert</a>
+    <a href="~/BookFood/BeverageShow" class="btn btn-secondary btn-lg" style="width:232px">Beverage</a>
+
+
+<div class="col-xs-6">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Widdle</a>
+
+            
+
+          
+
+
+            <p class="text-white bg-dark">
+
+                <a href="@Url.Action("LogOutAdmin", "AdminLogins")" class="btn btn-outline-info" role="button">Log Out</a>
+
+                Hi,@TempData["AdminLogin"]
+            </p>
+
+        </div>
+
+    </nav>
+
+
+
+    <div class="table-responsive">
+        <table class="table table-hover">
+            <thead>
+                <tr class="table-info">
+                    <th scope="col">@Html.DisplayNameFor(x => x.OrderID)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.foodName)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.qnty)</th>
+                    <th scope="col"> Unit Price</th>
+                    <th scope="col"> Food Price</th>
+                    <th scope="col">Total Price</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.UserID)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.UName)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.Mobile)</th>
+                    <th scope="col"> @Html.DisplayNameFor(x => x.UserAddress)</th>
+                    <th scope="col"> Cook-Name(ID)</th>
+                    <th scope="col"> Deliveryman Name(ID)</th>
+                    <th scope="col">    Confirmation</th>
+                    <th scope="col"> </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class=" table table-hover">
+                        <td class=" table-warning align-middle text-center"> @item.OrderID </td>
+                        <td>
+                            <table class="table table-hover">
+                                <tbody>
+                                    @foreach (var data in item.foodName)
+                                    {
+                                        <tr class="table-warning">
+                                            <td> @data</td>
+                                        </tr>
+                                    }
+                                </tbody>
+
+                            </table>
+                        </td>
+
+                        <td>
+                            <table class="table table-hover">
+                                <tbody>
+                                    @foreach (var data in item.qnty)
+                                    {
+                                        <tr class="table-warning">
+                                            <td> @data</td>
+                                        </tr>
+                                    }
+                                </tbody>
+
+                            </table>
+                        </td>
+
+                        <td>
+                            <table class="table table-hover">
+                                <tbody>
+                                    @foreach (var data in item.foodPrice)
+                                    {
+                                        <tr class="table-warning">
+                                            <td> @data</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+
+
+                        <td>
+                            <table class="table table-hover">
+                                @for (var data = 0; data < item.foodPrice.Count; data++)
+                                {
+                                    <tr class="table-warning">
+                                        <td> @(@item.foodPrice[data] / @item.qnty[data])  </td>
+                                    </tr>
+                                }
+
+                            </table>
+                        </td>
+
+                        <td class=" table-warning align-middle text-center"> @item.Total</td>
+
+                        <td class=" table-warning align-middle text-center"> @item.UserID</td>
+                        <td class=" table-warning align-middle text-center"> @item.UName</td>
+                        <td class=" table-warning align-middle text-center"> @item.Mobile</td>
+                        <td class=" table-warning align-middle text-center"> @item.UserAddress</td>
+                        <td class=" table-warning align-middle text-center"> @item.CookName</td>
+                        <td class=" table-warning align-middle text-center"> @item.DevName</td>
+                        @if (@item.assign == 0)
+                        {
+                            <td>
+                                <a href="@Url.Action("dashboard", "BookFood", new { id = 1,info = item.OrderID })" class="btn btn-success" role="button">Accept</a>
+                            </td>
+                            <td>
+                                <a href="@Url.Action("dashboard", "BookFood", new { id = 2,info = item.OrderID })" class="btn btn-warning" role="button">Decline</a>
+                            </td>
+                        }
+                        else if (item.assign == 1)
+                        {
+                            <td class=" table-warning align-middle">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2-circle" viewBox="0 0 16 16">
+                                    <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z" />
+                                    <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z" />
+                                </svg> <b> Accepted</b>
+                            </td>
+                            <td class=" table-warning"></td>
+
+
+                        }
+                        else if (item.assign == 2)
+                        {
+
+                            <td class=" table-warning align-middle">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-octagon-fill" viewBox="0 0 16 16">
+                                    <path d="M11.46.146A.5.5 0 0 0 11.107 0H4.893a.5.5 0 0 0-.353.146L.146 4.54A.5.5 0 0 0 0 4.893v6.214a.5.5 0 0 0 .146.353l4.394 4.394a.5.5 0 0 0 .353.146h6.214a.5.5 0 0 0 .353-.146l4.394-4.394a.5.5 0 0 0 .146-.353V4.893a.5.5 0 0 0-.146-.353L11.46.146zm-6.106 4.5L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708z" />
+                                </svg>
+                                <b> Cancelled</b>
+                            </td>
+
+                            <td class=" table-warning"></td>
+
+                        }
+
+                    </tr>
+
+                }
+
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+

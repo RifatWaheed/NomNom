@@ -1,0 +1,112 @@
+﻿@model IEnumerable<NomNomScratch.Models.MainCourse>
+
+@{
+    Layout = "~/Views/AppetizerCartLayout.cshtml";
+}
+
+<p style="color:white">
+    .
+</p>
+<div class="float-right">
+    <a href="@Url.Action("CustomerIndex", "Customer", new { id = 1})" class="btn btn-success" role="button">All Categories</a>
+</div>
+<p style="color:white">
+    .
+</p>
+
+
+<div class="col-xs-6">
+    <h2 class="sub-header">Main Course</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th class="scope">@Html.DisplayNameFor(model => model.Name)</th>
+                        <th class="scope"> @Html.DisplayNameFor(model => model.Price)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="col-md-2">@Html.DisplayFor(modelItem => item.Name)</td>
+                            <td class="col-md-2">@Html.DisplayFor(modelItem => item.Price)</td>
+                            <td class="col-md-2"><button class="btn btn-success small" type="button" onclick="location.href='@Url.Action("CustomerMainCourse","Customer",new {  id = item.MfID })'">+</button></td>
+                        </tr>
+                    }
+
+
+
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="col-xs-6">
+    <h2 class="sub-header">Cart</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th class="scope">@Html.DisplayNameFor(model => model.Name)</th>
+                        <th class="scope">Quantity</th>
+                        <th class="scope"> @Html.DisplayNameFor(model => model.Price)</th>
+                        <th class="scope"></th>
+                        <th class="scope"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.FullCart)
+                    {
+                        <tr>
+                            <td class="col-md-2">@item.Name</td>
+                            <td class="col-md-2">@item.Quantity</td>
+                            <td class="col-md-2">@item.Price</td>
+                            <td class="col-md-2"><button class="btn btn-success small" type="button" onclick="location.href='@Url.Action("CustomerMainCourse","Customer",new {  id = item.Code})'">+</button></td>
+                            <td class="col-md-2"><button class="btn btn-danger small" type="button" onclick="location.href='@Url.Action("CustomerMainCourseMinus","Customer",new {  id = item.Code })'">-</button></td>
+                        </tr>
+                    }
+
+
+
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+<p style="color:white">
+    .
+</p>
+<div class="float-right">
+    <a href="~/Customer/Process" class="btn btn-success">Checkout</a></div>
+<p style="color:white">
+    .
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
